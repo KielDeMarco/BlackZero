@@ -5,6 +5,6 @@ OffSec Notes
 
 #### List of useful Commands for hacking:
 
-|Linux 💻 | Link |
+|Linux 🐧 | Link |
 | ------------- | ------------- |
 | Linux Enumeration | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/linux_enumeration.md) |
