@@ -10,3 +10,7 @@ ls -la /etc/cron.daily/
 ```
 find / -type f -name user.txt 2>/dev/null
 ```
+###### List Current Processes:
+```
+ps aux | grep root
+```
