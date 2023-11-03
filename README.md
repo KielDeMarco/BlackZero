@@ -7,4 +7,4 @@ OffSec Notes
 
 | Commands | Link |
 | ------------- | ------------- |
-| Linux Enumeration Commands | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/linux_commands) |
+| Linux Enumeration Commands | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/linux_commands.md) |
