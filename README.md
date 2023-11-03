@@ -1,12 +1,9 @@
 # BlackZero
 OffSec Notes
 
-# My Udemy & Coursera AI Portfolio
-A portfolio of my work on Udemy and Coursera.
-
 ### Table of Contents:
 
-#### Technologies used in the projects:
+#### List of useful Commands for hacking:
 
 | Commands | Link |
 | ------------- | ------------- |
