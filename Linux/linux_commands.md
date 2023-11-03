@@ -1,3 +1,7 @@
+###### OS Version:
+```
+ cat /etc/os-release
+```
 ###### Find writable folders:
 ```
 find / -path /proc -prune -o -type d -perm -o+w 2>/dev/null
