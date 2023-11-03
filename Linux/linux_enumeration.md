@@ -23,3 +23,7 @@ find / -type f -name user.txt 2>/dev/null
 ```
 ps aux | grep root
 ```
+###### looks for patterns in files.
+```
+grep -I --exclude-dir={/usr,/dev,/lib,/lib32,/lib64} -Rnw '/' -e 'HTB{}'
+```
