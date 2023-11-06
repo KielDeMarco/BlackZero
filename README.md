@@ -3,7 +3,7 @@ OffSec Notes
 
 ### Table of Contents:
 
-#### List of useful Commands for hacking:
+#### List of useful commands for hacking:
 
 |Linux 🐧 | Link |
 | ------------- | ------------- |
