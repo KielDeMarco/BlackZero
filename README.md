@@ -8,3 +8,4 @@ OffSec Notes
 |Linux 🐧 | Link |
 | ------------- | ------------- |
 | Linux Enumeration | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/linux_enumeration.md) |
+| Password Attacks | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/Password%20Cracking.md) |
