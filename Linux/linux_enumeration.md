@@ -23,7 +23,7 @@ find / -type f -name user.txt 2>/dev/null
 ```
 ps aux | grep root
 ```
-###### looks for patterns in files.
+###### Find all hidden files.
 ```
-grep -I --exclude-dir={/usr,/dev,/lib,/lib32,/lib64} -Rnw '/' -e 'HTB{}'
+find / -type f -name ".*" -exec ls -l {} \; 2>/dev/null | grep htb-student
 ```
