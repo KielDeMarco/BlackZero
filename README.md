@@ -1,5 +1,4 @@
 # BlackZero
-OffSec Notes
 A list of useful commands for hacking.
 
 ### Table of Contents:
