@@ -14,6 +14,7 @@ A list of useful commands for hacking.
 
 |Windows 🖥️ | Links |
 | ------------- | ------------- |
-| ldap_enumeration | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/ldap_enumeration.md) |
+| windows commands | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/windows_commands.md) |
+| ldap_enumeration | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/ldap_enumeration.md) | 
 
 
