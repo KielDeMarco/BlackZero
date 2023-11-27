@@ -11,6 +11,7 @@ A list of useful commands for hacking.
 | Password Attacks | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/Password%20Cracking.md) |
 | Python 🐍 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/python.md) |
 |Reverse Shells ⏮️ | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/reverse_shell.md) |
+|lxd ⏮️ | [Link]() |
 
 |Windows 🖥️ | Links |
 | ------------- | ------------- |
