@@ -14,3 +14,7 @@ https://github.com/frizb/PasswordDecrypts
 ```
 Get-ADUser -identity s.smith -properties *
 ```
+####shows groups user belongs to:
+```
+whoami /all
+```
