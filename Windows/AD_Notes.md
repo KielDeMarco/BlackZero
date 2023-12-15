@@ -10,3 +10,7 @@ If a user belongs to the Remote Management USers group we can gain access to the
 ```
 https://github.com/frizb/PasswordDecrypts
 ```
+##### The Get-ADUser cmdlet can be used to list the properties of a user:
+```
+Get-ADUser -identity s.smith -properties *
+```
