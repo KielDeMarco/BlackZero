@@ -1,5 +1,12 @@
 # Ldap enumeration:
 
+#### Ldap enumeration with windapseawrch:
+```
+git clone https://github.com/ropnop/windapsearch.git
+pip install python-ldap
+./windapsearch.py -U --full --dc-ip 10.10.10.182
+```
+
 #### For enumerating ldap and finding domain controllers:
 ```
 ldapsearch -H ldap://10.10.10.161 -x -s base '' "(objectClass=*)" "*" + | grep dn
