@@ -18,3 +18,18 @@ Get-ADUser -identity s.smith -properties *
 ```
 whoami /all
 ```
+###### Get Active Directory Objects:
+```
+Get-ADObject -ldapfilter "(&(isDeleted=TRUE))" -IncludeDeletedObjects
+```
+##### Include object class only:
+```
+Get-ADObject -ldapfilter "(&(objectclass=user)(isDeleted=TRUE))" -
+IncludeDeletedObjects
+```
+
+##### Display filter to select a specific account only:
+```
+Get-ADObject -ldapfilter "(&(objectclass=user)(DisplayName=TempAdmin)
+(isDeleted=TRUE))" -IncludeDeletedObjects -Properties *
+```
