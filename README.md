@@ -12,14 +12,16 @@ A list of useful commands for hacking.
 | Python 🐍 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/python.md) |
 |Reverse Shells ⏮️ | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/reverse_shell.md) |
 |lxd ⏮️ | [Link]() |
+|smb 📁 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/smb.md) |
+
 
 |Windows 🖥️ | Links |
 | ------------- | ------------- |
-| Active Directory 📁 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/AD_Notes.md)|
+| Active Directory 🗄️ | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/AD_Notes.md)|
 | windows commands | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/windows_commands.md) |
 | ldap_enumeration | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/ldap_enumeration.md) | 
 | crackmapexec | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/crackmapexec.md)|
-| kerberos 🐕‍🦺 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/kerberos.md)| https://github.com/KielDeMarco/BlackZero/blob/main/Windows/AD_Notes.md
+| kerberos 🐕‍🦺 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/kerberos.md)| 
 
 
 
