@@ -14,7 +14,7 @@ https://github.com/frizb/PasswordDecrypts
 ```
 Get-ADUser -identity s.smith -properties *
 ```
-####shows groups user belongs to:
+#### Shows groups user belongs to:
 ```
 whoami /all
 ```
@@ -32,4 +32,8 @@ IncludeDeletedObjects
 ```
 Get-ADObject -ldapfilter "(&(objectclass=user)(DisplayName=TempAdmin)
 (isDeleted=TRUE))" -IncludeDeletedObjects -Properties *
+```
+##### Used to spray passwords for users:
+```
+crackmapexec smb 10.10.10.248 -u users -p NewIntelligenceCorpUser9876 --continue-on-success
 ```
