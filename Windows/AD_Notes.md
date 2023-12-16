@@ -1,6 +1,12 @@
 #### Notes for active directory:
 
 If a user belongs to the Remote Management USers group we can gain access to the machine through evil-winrm.
+
+##### Command for Responder: 
+```
+responder -I tun0
+```
+
 ###### Check if user belongs to the group with windapsearch:
 ```
 ./windapsearch.py -U --full --dc-ip 10.10.10.182
