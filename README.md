@@ -5,7 +5,8 @@ A list of useful commands for hacking.
 
 #### List of useful commands for hacking:
 |Kali Linux 🐉 | Links |
-| ------------- | ------------- |
+| ------------- | ------------- | 
+| Linux Enumeration Notes | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/linux_enumeration.md) |
 | Linux Enumeration | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/linux_enumeration.md) |
 | wp-scan | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/wp-scan.md)|
 | Password Attacks | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/Password%20Cracking.md) |
