@@ -27,7 +27,7 @@ ps aux | grep root
 ```
 find / -type f -name ".*" -exec ls -l {} \; 2>/dev/null | grep htb-student
 ```
-######Check for suid binaries.
+######  Check for suid binaries.
 ```
 find / -user root -perm -4000 -exec ls -ldb {} \; 2>/dev/null
 ```
