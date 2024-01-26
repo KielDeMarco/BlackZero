@@ -2,3 +2,7 @@
 ```
 use post/multi/recon/local_exploit_suggester
 ```
+#### Switch Sessions:
+```
+sessions -i 1
+```
