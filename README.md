@@ -14,6 +14,7 @@ A list of useful commands for hacking.
 |Reverse Shells ⏮️ | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/reverse_shell.md) |
 |lxd ⏮️ | [Link]() |
 |smb 📁 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/smb.md) |
+|Metasploit ☄️ | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/smb.md) |
 
 
 |Windows 🖥️ | Links |
@@ -22,7 +23,8 @@ A list of useful commands for hacking.
 | windows commands | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/windows_commands.md) |
 | ldap_enumeration | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/ldap_enumeration.md) | 
 | crackmapexec | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/crackmapexec.md)|
-| kerberos 🐕‍🦺 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/kerberos.md)| 
+| kerberos 🐕‍🦺 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/kerberos.md)| https://github.com/KielDeMarco/BlackZero/blob/main/Linux/metasploit.md
+
 
 
 
