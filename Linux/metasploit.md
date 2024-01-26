@@ -9,5 +9,5 @@ sessions -i 1
 #### Swithc processes:
 ```
 ps
-migrate PID no.
+migrate [PID]
 ```
