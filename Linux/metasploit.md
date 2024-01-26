@@ -6,3 +6,8 @@ use post/multi/recon/local_exploit_suggester
 ```
 sessions -i 1
 ```
+#### Swithc processes:
+```
+ps
+migrate PID no.
+```
