@@ -15,6 +15,7 @@ A list of useful commands for hacking.
 |lxd ⏮️ | [Link]() |
 |smb 📁 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/smb.md) |
 |Metasploit ☄️ | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/metasploit.md) |
+| msf venom 🐍 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/msf_venom.md)|
 
 
 |Windows 🖥️ | Links |
@@ -24,7 +25,6 @@ A list of useful commands for hacking.
 | ldap_enumeration | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/ldap_enumeration.md) | 
 | crackmapexec | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/crackmapexec.md)|
 | kerberos 🐕‍🦺 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/kerberos.md)| 
-| msf venom 🐍 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/msf_venom.md)|
 
 
 
