@@ -25,6 +25,7 @@ A list of useful commands for hacking.
 | ldap_enumeration | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/ldap_enumeration.md) | 
 | crackmapexec | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/crackmapexec.md)|
 | kerberos 🐕‍🦺 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/kerberos.md)| 
+| evil-winrm 😈 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Windows/evil-winrm.md)|
 
 |HacktheBox 📓 | Links |
 | ------------- | ------------- |
