@@ -35,7 +35,7 @@ A list of useful commands for hacking.
 |Usefule Websites | Links |
 | ------------- | ------------- |
 | HackTricks | [Link](https://book.hacktricks.xyz/) | 
-| HackTricks | [Link]([https://book.hacktricks.xyz/](https://0xdf.gitlab.io/2018/11/08/powershell-history-file.html)) |
+| 0xdf | [Link](https://0xdf.gitlab.io/2018/11/08/powershell-history-file.html) |
 
 
 
