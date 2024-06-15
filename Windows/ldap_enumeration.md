@@ -2,6 +2,10 @@
 
 #### Ldap enumeration with windapseawrch:
 ```
+# Used incase required libraries are not installed on the system.
+
+sudo apt-get install python3-dev libxml2-dev libxslt1-dev zlib1g-dev libsasl2-dev libldap2-dev build-essential libssl-dev libffi-dev libjpeg-dev libpq-dev liblcms2-dev libblas-dev libjpeg62-turbo-dev
+
 git clone https://github.com/ropnop/windapsearch.git
 pip install python-ldap
 ./windapsearch.py -U --full --dc-ip 10.10.10.182
