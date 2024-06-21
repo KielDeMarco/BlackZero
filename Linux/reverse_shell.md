@@ -1,6 +1,16 @@
 # Reverse Shell Methods
 
 ## Reverse Shell Cheat Sheet
+Stabilize Shell:
+```
+stty raw -echo; fg
+```
+```
+export TERM=xterm
+```
+```
+export TERM=xterm
+```
 
 Bash
 ```bash
