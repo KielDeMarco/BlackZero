@@ -39,6 +39,7 @@ A list of useful commands for hacking.
 | 0xdf | [Link](https://0xdf.gitlab.io/2018/11/08/powershell-history-file.html) |
 | the hacker tools | [Link](https://tools.thehacker.recipes/) | 
 | wwolfs webshell | [Link](https://github.com/WhiteWinterWolf/wwwolf-php-webshell/tree/master) |
+|RevShells ⏮️|[Link](https://www.revshells.com/)|
 
 
 
