@@ -40,6 +40,7 @@ A list of useful commands for hacking.
 | the hacker tools | [Link](https://tools.thehacker.recipes/) | 
 | wwolfs webshell | [Link](https://github.com/WhiteWinterWolf/wwwolf-php-webshell/tree/master) |
 |RevShells ⏮️|[Link](https://www.revshells.com/)|
+|SQLi 💉|[Link](https://github.com/CyberM0nster/SQL-Injection-Payload-List-/tree/master)|
 
 
 
