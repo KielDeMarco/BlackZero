@@ -16,7 +16,7 @@ A list of useful commands for hacking.
 |smb 📁 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/smb.md) |
 |Metasploit ☄️ | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/metasploit.md) |
 | msf venom 🐍 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/msf_venom.md)|
-| SQLi payloads 💉| [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/SQLi_Payloads)| 
+| SQLi payloads 💉| [Link](https://github.com/KielDeMarco/BlackZero/tree/main/Linux/sqli_payloads)| 
 
 
 |Windows 🖥️ | Links |
