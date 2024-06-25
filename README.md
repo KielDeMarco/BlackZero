@@ -42,6 +42,7 @@ A list of useful commands for hacking.
 |RevShells ⏮️|[Link](https://www.revshells.com/)|
 |SQLi 💉|[Link](https://github.com/CyberM0nster/SQL-Injection-Payload-List-/tree/master)|
 |krbrelayx 📈| [Link](https://github.com/dirkjanm/krbrelayx)|
+|gmsa dumper 🚚|[Link](https://github.com/micahvandeusen/gMSADumper)|
 
 
 
