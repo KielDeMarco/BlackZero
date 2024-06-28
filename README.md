@@ -32,8 +32,8 @@ A list of useful commands for hacking.
 
 |HacktheBox 📓 | Links |
 | ------------- | ------------- |
-|  | |
-|||
+|SQL_Map 🗺️💉|[Link] (https://github.com/KielDeMarco/BlackZero/blob/main/HacktheBox/Sqlmap_Essentials_Module_Cheat_Sheet.pdf)|
+|Pivoting Tunneling And Port Forwarding|[Link](https://github.com/KielDeMarco/BlackZero/blob/main/HacktheBox/Pivoting_Tunneling_And_Port_Forwarding_Module_Cheat_Sheet.pdf)|
 |||
 |||
 
