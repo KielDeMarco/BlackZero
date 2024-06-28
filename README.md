@@ -45,6 +45,7 @@ A list of useful commands for hacking.
 |SQLi 💉|[Link](https://github.com/CyberM0nster/SQL-Injection-Payload-List-/tree/master)|
 |krbrelayx 📈| [Link](https://github.com/dirkjanm/krbrelayx)|
 |gmsa dumper 🚚|[Link](https://github.com/micahvandeusen/gMSADumper)|
+|SickBoy's AD Hacking Notes 🤒|[Link](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet?tab=readme-ov-file)|
 
 
 
