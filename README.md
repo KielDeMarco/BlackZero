@@ -47,6 +47,7 @@ A list of useful commands for hacking.
 |krbrelayx 📈| [Link](https://github.com/dirkjanm/krbrelayx)|
 |gmsa dumper 🚚|[Link](https://github.com/micahvandeusen/gMSADumper)|
 |SickBoy's AD Hacking Notes 🤒|[Link](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet?tab=readme-ov-file)|
+|Metasploit Unleashed|[Link](https://www.offsec.com/metasploit-unleashed/msfconsole-commands/#msfconsole-commands)|
 
 
 
