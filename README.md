@@ -48,6 +48,7 @@ A list of useful commands for hacking.
 |gmsa dumper 🚚|[Link](https://github.com/micahvandeusen/gMSADumper)|
 |SickBoy's AD Hacking Notes 🤒|[Link](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet?tab=readme-ov-file)|
 |Metasploit Unleashed|[Link](https://www.offsec.com/metasploit-unleashed/msfconsole-commands/#msfconsole-commands)|
+|Payload All Things 💣|[Link](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master)|
 
 
 
