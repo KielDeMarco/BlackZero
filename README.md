@@ -18,6 +18,7 @@ A list of useful commands for hacking.
 | msf venom 🐍 | [Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/msf_venom.md)|
 | SQLi payloads 💉| [Link](https://github.com/KielDeMarco/BlackZero/tree/main/Linux/sqli_payloads)| 
 |Pivoting & Portforwarding|[Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/pivoting.md)|
+|Network commands|[Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/netstat.md)|
 
 
 |Windows 🖥️ | Links |
