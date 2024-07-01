@@ -19,6 +19,7 @@ A list of useful commands for hacking.
 | SQLi payloads 💉| [Link](https://github.com/KielDeMarco/BlackZero/tree/main/Linux/sqli_payloads)| 
 |Pivoting & Portforwarding|[Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/pivoting.md)|
 |Network commands|[Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/netstat.md)|
+|sub-directory enumeration 📂|[Link](https://github.com/KielDeMarco/BlackZero/blob/main/Linux/subdirectory_enumeration.md)| 
 
 
 |Windows 🖥️ | Links |
